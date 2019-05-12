@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="limeiling"
+  id="myeclipse.1557645184244"
+  context-root="/limeiling"
+  j2ee-spec="5.0"
+  archive="limeiling.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
